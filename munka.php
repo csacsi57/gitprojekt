@@ -13,6 +13,7 @@ $b = 15;
 print $a + $b;
 
 
+<<<<<<< HEAD
 
 
 
@@ -23,4 +24,13 @@ print $a + $b;
 
 
 // Itt a vége :)
+=======
+// Kivonas
+//---------
+$x = 25;
+$y = 10;
+
+print "<br /><br />" . $x - $y;
+
+>>>>>>> kivonas
 ?>
