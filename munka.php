@@ -21,7 +21,7 @@ print   $a + $b + $c;
 
 
 
-
+// github módosítas
 
 
 // Itt a vége :)
